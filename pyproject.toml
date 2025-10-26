@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vizpack"
+version = "0.1.0"
+description = "Beautiful charts without boilerplate — ggplot-like ergonomics in Python."
+readme = "README.md"
+authors = [{name = "Rohit Rajdev", email = "rohit@sandscript.ai"}]
+license = {text = "MIT License"}
+requires-python = ">=3.8"
+dependencies = ["matplotlib>=3.5", "pandas>=1.3"]
+
+[project.urls]
+Homepage = "https://github.com/rohitrajdev/vizpack"
+Issues = "https://github.com/rohitrajdev/vizpack/issues"
+
+[tool.setuptools]
+packages = ["vizpack"]
+include-package-data = true
