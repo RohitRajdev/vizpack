@@ -1,7 +1,7 @@
 # 🧭 vizpack — Beautiful Charts Without Boilerplate
 **Tagline:** *Matplotlib power, ggplot simplicity.*
 
-[![PyPI](https://img.shields.io/pypi/v/vizpack.svg)](https://pypi.org/project/vizpack/)
+[![PyPI](https://img.shields.io/pypi/v/vizpack-py.svg)](https://pypi.org/project/vizpack-py/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build](https://img.shields.io/github/actions/workflow/status/rohitrajdev/vizpack/tests.yml?label=build)](https://github.com/rohitrajdev/vizpack/actions)
 [![Stars](https://img.shields.io/github/stars/rohitrajdev/vizpack?style=social)](https://github.com/rohitrajdev/vizpack)

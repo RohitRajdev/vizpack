@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "vizpack"
+name = "vizpack-py"
 version = "0.1.0"
 description = "Beautiful charts without boilerplate — ggplot-like ergonomics in Python."
 readme = "README.md"
