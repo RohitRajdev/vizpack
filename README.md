@@ -1,7 +1,6 @@
 # 🧭 vizpack — Beautiful Charts Without Boilerplate
 **Tagline:** *Matplotlib power, ggplot simplicity.*
-
-[![PyPI](https://img.shields.io/pypi/v/vizpack-py.svg)](https://pypi.org/project/vizpack-py/)
+[![PyPI version](https://img.shields.io/pypi/v/vizpack-py)](https://pypi.org/project/vizpack-py/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build](https://img.shields.io/github/actions/workflow/status/rohitrajdev/vizpack/tests.yml?label=build)](https://github.com/rohitrajdev/vizpack/actions)
 [![Stars](https://img.shields.io/github/stars/rohitrajdev/vizpack?style=social)](https://github.com/rohitrajdev/vizpack)
@@ -26,6 +25,7 @@ quickplot(df, x="age", y="income", kind="scatter", theme="modern")
 
 That’s it. A polished chart appears instantly.
 
+
 ---
 
 ## ✨ Features
@@ -39,7 +39,7 @@ That’s it. A polished chart appears instantly.
 
 ## 📦 Installation
 ```bash
-pip install vizpack
+pip install vizpack-py
 ```
 
 Or from source:
@@ -88,6 +88,10 @@ Contributions, issues, and feature requests are welcome!
 5. Open a Pull Request 🚀  
 
 ---
+
+git tag v0.1.0
+git push origin v0.1.0
+_____
 
 ## 🪪 License
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
