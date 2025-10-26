@@ -39,7 +39,7 @@ That’s it. A polished chart appears instantly.
 
 ## 📦 Installation
 ```bash
-pip install vizpack-py
+pip install vizpack-py-py
 ```
 
 Or from source:

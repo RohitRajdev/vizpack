@@ -6,7 +6,6 @@ on:
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
-  # Publish to PyPI when you push a semver tag like v0.1.1
   push:
     tags:
       - "v*.*.*"
